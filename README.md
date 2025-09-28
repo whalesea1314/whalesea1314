@@ -16,9 +16,11 @@
   <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
 </picture>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph-fjqz177.vercel.app/graph?username=whalesea1314&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br />
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![whalesea1314's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=whalesea1314&theme=github-light&hide_border=true)
+
+![whalesea1314's github profile](./profile-3d-contrib/profile-green-animate.svg)
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=whalesea1314&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="whalesea1314's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whalesea1314&layout=compact&theme=vue&hide_border=true" alt="whalesea1314's top langs" /> |
 | ------------- | ------------- |
@@ -26,8 +28,9 @@
 <br />
 
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=whalesea1314" />
-    <img  src="https://github-profile-trophy.vercel.app/?username=whalesea1314&row=1" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=whalesea1314" />
+    <br />
+    <img src="https://github-profile-trophy.vercel.app/?username=whalesea1314&row=1" />
 </div>
 
 <br/>
