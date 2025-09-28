@@ -23,6 +23,16 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=whalesea1314&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="whalesea1314's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whalesea1314&layout=compact&theme=vue&hide_border=true" alt="whalesea1314's top langs" /> |
 | ------------- | ------------- |
 
+<br />
+
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=whalesea1314" />
+    <img  src="https://github-profile-trophy.vercel.app/?username=whalesea1314&row=1" />
+</div>
+
+<br/>
+<br/>
+
 <!-- 半年日历, 由工作流定时生成 -->
 <!-- ![Half-year-calendar](./assets/metrics.plugin.isocalendar.svg) -->
 
