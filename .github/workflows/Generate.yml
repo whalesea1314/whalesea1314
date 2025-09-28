@@ -2,10 +2,10 @@
 name: Generate
 
 # 工作流触发时机, see: https://docs.github.com/zh/actions/using-workflows/triggering-a-workflow
-# 触发条件修改为: 当 main 分支有 push 操作 || 每天 0 点
+# 触发条件修改为: 当 main 分支有 push 操作 || 每天 23:59 点
 on:
   schedule:
-    - cron: '30 22 * * *'
+    - cron: '59 23 * * *'
   push:
     branches: 
       - main  
@@ -26,7 +26,7 @@ jobs:
           plugin_isocalendar: yes
   
   # 生成 Snake 图(贪吃蛇), 用 Platane/snk 生成图片, see: https://github.com/Platane/snk
-  github-Snake: 
+  github-snake: 
     runs-on: ubuntu-latest    
     steps:
       - name: Checkout
@@ -49,3 +49,21 @@ jobs:
           branch: main
           default_author: github_actions
           message: 'create github Snake'
+
+  # 生成 github-profile-3d 图, 用 yoshi389111/github-profile-3d-contrib 生成图片, see: https://github.com/yoshi389111/github-profile-3d-contrib
+  github-profile-3d:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name whalesea1314
+          git config user.email whalesea1314@gmail.com
+          git add -A .
+          git commit -m "generated profile-3d"
+          git push
