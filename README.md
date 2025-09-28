@@ -29,7 +29,9 @@
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=whalesea1314" />
-    <br />
+</div>
+<br />
+<div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=whalesea1314&row=1" />
 </div>
 
