@@ -1,9 +1,9 @@
 <!-- 标题 + 个人描述, emoji 取自: http://emojihomepage.com -->
 <p align="center">
   <h1 height="200px" align="center">
-    God dag <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm ZhangJiaJie
+    God dag <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm Mr.Zhang
   </h1>
-  <p align="center">A Sometimes passion ✨ and sometimes idle 🥋 full-stack developer from China 👨‍💻</p>
+  <p align="center">A Sometimes 10x developer 🚀 and sometimes "it works on my machine" guy 🤷‍♂️ full stack developer from China 🇨🇳</p>
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whalesea1314)
