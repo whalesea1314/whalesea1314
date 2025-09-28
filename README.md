@@ -6,7 +6,7 @@
   <p align="center">A Sometimes 10x developer 🚀 and sometimes "it works on my machine" guy 🤷‍♂️ full stack developer from China 🇨🇳</p>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whalesea1314)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whalesea1314&1)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whalesea1314)
 
 <!-- 半年日历, 由工作流定时生成 -->
