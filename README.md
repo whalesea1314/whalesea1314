@@ -32,7 +32,7 @@
 <br />
 
 <div align="center">
-    <img src="https://github-profile-trophy-cyyin.vercel.app/?user=whalesea1314" />
+    <img src="https://github-profile-trophy-cyyin.vercel.app/?username=whalesea1314" />
 </div>
 <br />
 <div align="center">
