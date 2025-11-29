@@ -32,11 +32,11 @@
 <br />
 
 <div align="center">
-    <img src="https://github-profile-trophy-cyyin.vercel.app/?username=whalesea1314" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=whalesea1314&theme=vue" />
 </div>
 <br />
 <div align="center">
-    <img src="https://github-profile-trophy-cyyin.vercel.app/?username=whalesea1314&row=1" />
+    <img src="https://github-profile-trophy-cyyin.vercel.app/?username=whalesea1314" />
 </div>
 
 <br/>
