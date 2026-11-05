@@ -22,7 +22,7 @@
 
 <br />
 
-![whalesea1314's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=whalesea1314&theme=github-light&hide_border=true)
+![whalesea1314's github activity graph](https://github-act-graph.rodriaum.com/graph?username=whalesea1314&theme=github-light&hide_border=true)
 
 ![whalesea1314's github profile](./profile-3d-contrib/profile-green-animate.svg)
 
